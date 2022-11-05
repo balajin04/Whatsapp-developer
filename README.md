@@ -1,1 +1,4 @@
-# Whatsapp-developer
+# Whatsapp-development
+PROFILE PHOTO CODE
+LAST SEEN CODE
+SETTINGS CODE
